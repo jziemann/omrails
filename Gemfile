@@ -4,6 +4,7 @@ ruby "1.9.3"
 	
 	gem 'rails', '4.0.0'
 	gem 'jquery-rails'
+	gem 'devise'
 	gem 'turbolinks'
 	gem 'jbuilder', '~> 1.2'
 	gem 'sass-rails', '~> 4.0.0'
